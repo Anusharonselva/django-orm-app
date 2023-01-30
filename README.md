@@ -8,8 +8,8 @@ To develop a Django application to store and retrieve data from a database using
 
 
 
-![1 1](https://user-images.githubusercontent.com/119405600/215450998-237fd9fd-6902-46c8-a106-14c661481c29.png)
 
+![1 2](https://user-images.githubusercontent.com/119405600/215451127-413793cb-939b-45ee-a332-dd88162cbc8c.png)
 
 Include your ER diagram here
 
@@ -49,10 +49,11 @@ class EmployeeAdmin(admin.ModelAdmin):
 Include your code here
 
 ## OUTPUT
-![1 2](https://user-images.githubusercontent.com/119405600/215450954-c05049f5-ff2c-4755-b69a-d3a62348f110.png)
 
 
 
+
+![1 1](https://user-images.githubusercontent.com/119405600/215451182-61ca3150-56ae-4fd4-a64a-5b535d36f4c8.png)
 
 
 ## RESULT
